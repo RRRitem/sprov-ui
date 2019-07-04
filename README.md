@@ -52,8 +52,3 @@ wget -O /usr/bin/sprov-ui -N --no-check-certificate https://github.com/sprov065/
 
 ```
 
-# Telegram 群组
-https://t.me/sprov_blog
-
-# Telegram 频道
-https://t.me/sprov_channel
